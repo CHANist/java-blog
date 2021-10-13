@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>A Programmer's Blog Blog</title>
+        <link>https://chanist.github.io/https://chanist.github.io/java-blog/blog</link>
+        <description>A Programmer's Blog Blog</description>
+        <lastBuildDate>Wed, 08 Sep 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4. Spring 之Bean生命周期源碼分析（上）]]></title>
+            <link>https://chanist.github.io/https://chanist.github.io/java-blog/blog/4. Spring 之Bean生命周期源碼分析（上）</link>
+            <guid>4. Spring 之Bean生命周期源碼分析（上）</guid>
+            <pubDate>Wed, 08 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[How Spring scan the components]]></description>
+        </item>
+    </channel>
+</rss>

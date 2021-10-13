@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjava_blog=self.webpackChunkjava_blog||[]).push([[855],{9821:function(a){a.exports=JSON.parse('{"allTagsPath":"https://chanist.github.io/java-blog/blog/tags","slug":"https://chanist.github.io/java-blog/blog/tags/spring","name":"spring","count":1,"permalink":"https://chanist.github.io/java-blog/blog/tags/spring"}')}}]);
