@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkjava_blog=self.webpackChunkjava_blog||[]).push([[168],{3533:function(a){a.exports=JSON.parse('{"permalink":"https://chanist.github.io/java-blog/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

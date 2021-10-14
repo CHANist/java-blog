@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjava_blog=self.webpackChunkjava_blog||[]).push([[627],{2357:function(a){a.exports=JSON.parse('{"allTagsPath":"/java-blog/blog/tags","slug":"/java-blog/blog/tags/java","name":"java","count":1,"permalink":"/java-blog/blog/tags/java"}')}}]);
