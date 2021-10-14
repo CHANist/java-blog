@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjava_blog=self.webpackChunkjava_blog||[]).push([[121],{8070:function(a){a.exports=JSON.parse('[{"name":"Java","permalink":"/java-blog/tags/java","count":1},{"name":"Spring","permalink":"/java-blog/tags/spring","count":1},{"name":"\u5716\u9748\u8ab2\u5802","permalink":"/java-blog/tags/\u5716\u9748\u8ab2\u5802","count":1}]')}}]);
